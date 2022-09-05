@@ -9,6 +9,7 @@ public class Foo {
           // 익명 내부 클래스 annoymous inner class
           final int baseNumber = 10; // 참조는 되지만 변경은 안된다.  final이 생략되어 있다.
 
+
 //        RunSomething runSomething = new RunSomething() {
 //            @Override
 //            public void doIt() {
